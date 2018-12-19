@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "system_error": "cpp",
+        "memory": "cpp",
+        "xmemory": "cpp",
+        "xtr1common": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xmemory0": "cpp",
+        "xstddef": "cpp",
+        "initializer_list": "cpp"
+    }
+}
